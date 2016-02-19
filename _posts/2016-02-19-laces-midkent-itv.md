@@ -1,14 +1,10 @@
 ---
-author:
-  - name: LACES
-    url: 'https://www.youtube.com/channel/UCHwOQm1JcKe3DI8hSQP-A1A'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=gWJil2TLF_w'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - views
@@ -20,8 +16,14 @@ keywords:
   - starring
   - super
   - wars
-description: Uploaded by LACES on 2016-01-19.
-inLanguage: en
+description: ''
+datePublished: '2016-02-19T14:17:58.668Z'
+dateModified: '2016-02-19T14:17:54.970Z'
+author:
+  - name: LACES
+    url: 'https://www.youtube.com/channel/UCHwOQm1JcKe3DI8hSQP-A1A'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=gWJil2TLF_w&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=gWJil2TLF_w&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=gWJil2TLF_w'
-title: LACES MidKent ITV
-datePublished: '2016-02-19T14:11:34.333Z'
-dateModified: '2016-02-19T14:09:52.883Z'
+title: 'ITV Meridian news bulletin filmed at MidKent College, Kent '
 sourcePath: _posts/2016-02-19-laces-midkent-itv.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
