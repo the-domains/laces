@@ -4,7 +4,7 @@
         <description><![CDATA[LACES]]></description>
         <link>https://thegrid.ai/laces/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 14:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 14:11:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/laces/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[LACES MidKent ITV]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.youtube.com/watch?v=gWJil2TLF_w</link>
             <guid isPermaLink="false">12bff2c9-074a-49cb-81ee-8ffac262b0ea</guid>
             <pubDate>Fri, 19 Feb 2016 14:11:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://youtu.be/uYfbmkWR7rI</p>]]></description>
-            <link>https://thegrid.ai/laces/httpsyoutubeuyfbmkwr7ri/index.html</link>
-            <guid isPermaLink="false">064a80bc-a7fa-4a8f-9678-2ea2d25a293b</guid>
-            <pubDate>Fri, 19 Feb 2016 14:06:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
