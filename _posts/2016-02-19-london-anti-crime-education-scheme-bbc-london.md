@@ -1,14 +1,10 @@
 ---
-author:
-  - name: LACES
-    url: 'https://www.youtube.com/channel/UCHwOQm1JcKe3DI8hSQP-A1A'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=aP6ogIaP7Bg'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - views
@@ -21,7 +17,13 @@ keywords:
   - super
   - wars
 description: Uploaded by LACES on 2016-01-19.
-inLanguage: en
+datePublished: '2016-02-23T16:40:17.943Z'
+dateModified: '2016-02-23T16:39:43.229Z'
+author:
+  - name: LACES
+    url: 'https://www.youtube.com/channel/UCHwOQm1JcKe3DI8hSQP-A1A'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=aP6ogIaP7Bg&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=aP6ogIaP7Bg&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=aP6ogIaP7Bg'
 title: London Anti Crime Education Scheme BBC London
-datePublished: '2016-02-19T14:12:09.140Z'
-dateModified: '2016-02-19T14:08:16.326Z'
 sourcePath: _posts/2016-02-19-london-anti-crime-education-scheme-bbc-london.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
