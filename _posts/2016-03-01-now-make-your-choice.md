@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-01T02:40:12.980Z'
-dateModified: '2016-03-01T02:31:58.609Z'
+datePublished: '2016-03-01T02:47:05.509Z'
+dateModified: '2016-03-01T02:40:21.220Z'
 title: Now make your choice...
 author: []
 sourcePath: _posts/2016-03-01-now-make-your-choice.md
