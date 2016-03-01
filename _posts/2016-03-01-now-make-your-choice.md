@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-01T02:29:35.696Z'
-dateModified: '2016-03-01T02:29:28.960Z'
+datePublished: '2016-03-01T02:31:49.998Z'
+dateModified: '2016-03-01T02:31:45.718Z'
 title: Now make your choice...
 author: []
+sourcePath: _posts/2016-03-01-now-make-your-choice.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-01-now-make-your-choice.md
-published: true
-_type: Blurb
+url: now-make-your-choice/index.html
+_type: Article
 
 ---
 # Now make your choice...
