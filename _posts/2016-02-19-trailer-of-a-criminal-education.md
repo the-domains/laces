@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=uYfbmkWR7rI'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - super
   - wars
 description: Uploaded by LACES on 2016-01-19.
-datePublished: '2016-02-23T17:08:19.065Z'
-dateModified: '2016-02-23T17:08:06.817Z'
+datePublished: '2016-03-01T01:58:49.614Z'
+dateModified: '2016-03-01T01:58:47.838Z'
 author:
   - name: LACES
     url: 'https://www.youtube.com/channel/UCHwOQm1JcKe3DI8hSQP-A1A'
@@ -44,6 +43,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: trailer-of-a-criminal-education/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
