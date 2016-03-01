@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "A selection of testimonials from schools, colleges, Youth Offending Teams and Pupil Referral Units over the years since LACES' foundation in 1994"
-datePublished: '2016-03-01T02:47:10.715Z'
-dateModified: '2016-03-01T02:42:03.198Z'
+datePublished: '2016-03-01T03:00:17.304Z'
+dateModified: '2016-03-01T03:00:16.756Z'
 title: TESTIMONIALS
 author: []
 sourcePath: _posts/2016-02-29-testimonials.md
